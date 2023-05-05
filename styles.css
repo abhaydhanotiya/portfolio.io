@@ -290,19 +290,19 @@ img{
   z-index: var(--z-back);
 }
 .skills__html{
-  width: 85%;
+  width: 100%;
 }
 .skills__css{
-  width: 75%;
+  width: 100%;
 }
 .skills__js{
-  width: 45%;
+  width: 85%;
 }
 .skills__php{
   width: 40%;
 }
 .skills__ux{
-  width: 80%;
+  width: 100%;
 }
 .skills__img{
   border-radius: .5rem;
